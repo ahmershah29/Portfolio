@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website repository! This project showcases my skills, experience, and projects as a Software Engineer.
 
 ## 🚀 Live Demo
-Check out the live version of my portfolio: [Portfolio Website](#) *(Replace with your actual link)*
+Check out the live version of my portfolio: [https://syedahmershah.github.io/Portfolio/](#)
 
 ## 📌 Features
 - Fully responsive and mobile-friendly
@@ -35,11 +35,11 @@ Check out the live version of my portfolio: [Portfolio Website](#) *(Replace wit
 ## 🏗️ Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/syedahmershah/Portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-portfolio
+   cd Portfolio
    ```
 3. Open `index.html` in your browser or use Live Server in VS Code.
 
@@ -51,7 +51,7 @@ If you want to protect your code strictly, you can use the **Proprietary License
 ## 📬 Contact
 Want to connect? Reach out to me:
 - **Email:** ahmarshah170@gmail.com 
-- **GitHub:** [Your GitHub](https://github.com/ahmershah29)
+- **GitHub:** [Your GitHub](https://github.com/syedahmershah)
 
 ---
 
